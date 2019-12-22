@@ -2,14 +2,20 @@ apiVersion: apps/v1
 kind: ReplicaSet
 metadata:
   name: kuard
+  labels:
+    app: kuard
+    tier: frontend
 spec:
   replicas: 1
   selector:
     matchLabels:
+#      app: kuard
       tier: frontend
   template:
     metadata:
       labels:
+        app: kuard
+#        version: "2"
         tier: frontend
     spec:
       containers:
