@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0bf32d6-7a16-44d4-96c7-9279d1851bdd" name="Default Changelist" comment="" />
+    <list default="true" id="f0bf32d6-7a16-44d4-96c7-9279d1851bdd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,12 +13,13 @@
     <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/K8S_TEST" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1VKhnC7an3aUuZ3aNRCyJzgxrew" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -56,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577007858040</updated>
       <workItem from="1577007859287" duration="4768000" />
-      <workItem from="1577038889678" duration="1831000" />
+      <workItem from="1577038889678" duration="2306000" />
     </task>
     <servers />
   </component>
